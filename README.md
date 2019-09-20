@@ -37,26 +37,26 @@ const split = require('split2');
 
 #### Create the test file
 testfile.txt; put it in the directory you will run node from.
-    10
-    20
-    30
-    40
-    50
-    60
-    70
-    80
-    90
-    100
-    110
-    120
-    130
-    140
-    150
-    160
-    170
-    180
-    190
-    200
+>  10
+>  20
+>  30
+>  40
+>  50
+>  60
+>  70
+>  80
+>  90
+>  100
+>  110
+>  120
+>  130
+>  140
+>  150
+>  160
+>  170
+>  180
+>  190
+>  200
 
 
 ### Read the data and run it through the streams
