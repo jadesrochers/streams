@@ -1,4 +1,3 @@
-// Built in Libraries
 const fs = require('fs');
 const R = require('ramda')
 const { Writable, Transform, Readable } = require('stream');
@@ -18,7 +17,7 @@ const readStream = new Readable({
   read(){}
 });
 
-// Returns a stream from url. Have not fully implemented but should
+// Returns a stream from url. Have not implemented but should
 // but almost this simple. Request returns the stream.
 // const urlStream = url => Request.get(url)
 
